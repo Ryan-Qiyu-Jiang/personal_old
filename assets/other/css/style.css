@@ -104,3 +104,8 @@
 @media screen and (max-width: 320px){
 	.rw-sentence { font-size: 9px; }
 }
+a.nav-link.text-black:hover {
+    /* font-weight: bold; */
+    border-style: none;
+    border-bottom-style: solid;
+    border-bottom-color: #ffffff;
